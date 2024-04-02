@@ -11,13 +11,17 @@ In today's digital age, social media platforms like Twitter have become breeding
 The dataset used for this project is a curated collection of data from various social media platforms including Twitter, Kaggle, Wikipedia Talk pages, and YouTube. Each instance in the dataset consists of a tweet along with corresponding annotations indicating whether it contains hate speech or not. The data encompasses different types of cyberbullying such as hate speech, aggression, insults, and toxicity. To ensure robustness and generalization, the dataset is divided into training and testing sets for model training and evaluation.
 ## Exploratory Data Analysis (EDA)
 
-Before training the models, let's explore the dataset to gain insights into its characteristics and distributions:
-#### Data Overview:  
- Check the dimensions of the dataset, data types, and general statistics.
-#### Class Distribution: 
-Examine the distribution of hate speech and non-hate speech tweets to understand class balance.
-#### Text Analysis: 
-Analyze tweet lengths, word frequencies, and common terms to understand the language used in hate speech tweets.
+#### Identifying Variables:
+You extracted the relevant columns 'label' and 'tweet' from the dataset.
+
+#### Classifying Variables: 
+You didn't explicitly classify variables in your code, but it's assumed that 'label' is categorical (representing sentiment classes) and 'tweet' is textual data.
+
+#### Characterizing Variables:
+You used a histogram to visualize the distribution of the target variable ('label'), comparing the original and upsampled datasets to understand the effect of resampling.
+
+#### Intelligent Exploration: 
+Your use of resampling techniques suggests an intelligent approach to handling class imbalance, which is a common issue in sentiment analysis. 
 
 ## Models
 
