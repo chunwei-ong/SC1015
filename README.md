@@ -22,20 +22,16 @@ The dataset used for this project is a curated collection of data from various s
 ## Models used:
 
 ### Random Forest:
-An ensemble learning method that constructs a multitude of decision trees during training and outputs the mode of the classes as the prediction of individual trees.
 ### Nearest Neighbour:
-Simple classification algorithm that assigns the label of the majority class among its k nearest neighbors.
 ### Decision Tree:
-Decision Tree is a flowchart-like tree structure where an internal node represents a feature, the branch represents a decision rule, and each leaf node represents the outcome.
 ### Logistic Regression:
-Logistic Regression is a linear model used for binary classification that predicts the probability of occurrence of an event by fitting data to a logistic curve.
 ### Naive Bayes:
-Naive Bayes is a probabilistic classifier based on Bayes' theorem with the assumption of independence between features.
-
 
 ## Results and Conclusion
 The evaluation results will be presented, showcasing the performance metrics of each model and comparing their effectiveness in hate speech detection. Additionally, insights gained from the analysis will be discussed, highlighting the strengths and weaknesses of each model.
 Based on the evaluation results, the most effective model for hate speech detection on Twitter will be identified. Recommendations for further improvements, model optimization, and deployment of the hate speech detector will also be discussed, aiming to contribute to the ongoing efforts in combating online hate speech and fostering a safer online environment
+
+## What did we learn from this?
 
 
 ## Contributions:
