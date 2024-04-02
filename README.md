@@ -31,9 +31,7 @@ Decision Tree is a flowchart-like tree structure where an internal node represen
 Logistic Regression is a linear model used for binary classification that predicts the probability of occurrence of an event by fitting data to a logistic curve.
 ### Naive Bayes:
 Naive Bayes is a probabilistic classifier based on Bayes' theorem with the assumption of independence between features.
-## Training and Evaluation
 
-Each model will be trained on the training dataset and evaluated on the testing dataset using various evaluation metrics such as accuracy, precision, recall, and F1-score. These metrics will provide insights into the performance of each model in identifying hate speech on Twitter. The model exhibiting the highest performance across these metrics will be selected as the best approach for hate speech detection.
 
 ## Results and Conclusion
 The evaluation results will be presented, showcasing the performance metrics of each model and comparing their effectiveness in hate speech detection. Additionally, insights gained from the analysis will be discussed, highlighting the strengths and weaknesses of each model.
