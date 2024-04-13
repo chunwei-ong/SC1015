@@ -27,16 +27,16 @@ The dataset used for this project is a curated collection of data from various s
 ### Logistic Regression:
 ### Naive Bayes:
 
-## Results and Conclusion
-The evaluation results will be presented, showcasing the performance metrics of each model and comparing their effectiveness in hate speech detection. Additionally, insights gained from the analysis will be discussed, highlighting the strengths and weaknesses of each model.
-Based on the evaluation results, the most effective model for hate speech detection on Twitter will be identified. Recommendations for further improvements, model optimization, and deployment of the hate speech detector will also be discussed, aiming to contribute to the ongoing efforts in combating online hate speech and fostering a safer online environment
 
-## What did we learn from this?
 
 
 ## Contributions:
-John Doe: Model evaluation and conclusion.
-Jane Smith: Data preprocessing and model selection.
+Ong Chun Wei - EDA,random forest,nearest neighbour
+Rashi Ojha - Data cleaning,decision tree,Naive Bayes
 
 ## References:
-Insert references here.
+https://www.datacamp.com/tutorial/random-forests-classifier-python 
+https://scikit-learn.org/stable/modules/naive_bayes.html
+https://www.irjmets.com/uploadedfiles/paper/issue_5_may_2023/37892/final/fin_irjmets1683447137.pdf
+https://scikit-learn.org/stable/modules/neighbors.html#regression
+https://scikit-learn.org/stable/modules/tree.html
