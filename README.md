@@ -31,7 +31,8 @@ The dataset used for this project is a curated collection of data from various s
 
 
 ## Contributions:
-Ong Chun Wei - EDA,random forest,nearest neighbour
+Ong Chun Wei - EDA,random forest,nearest neighbour.
+
 Rashi Ojha - Data cleaning,decision tree,Naive Bayes
 
 ## References:
