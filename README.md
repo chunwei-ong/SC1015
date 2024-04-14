@@ -21,11 +21,11 @@ The dataset used for this project is a curated collection of data from various s
 
 ## Models used:
 
-### Random Forest:
-### Nearest Neighbour:
-### Decision Tree:
-### Logistic Regression:
-### Naive Bayes:
+### 1)Random Forest
+### 2)Nearest Neighbour
+### 3)Decision Tree
+### 4)Logistic Regression
+### 5)Naive Bayes
 
 
 
