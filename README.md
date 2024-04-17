@@ -41,3 +41,7 @@ https://scikit-learn.org/stable/modules/naive_bayes.html
 https://www.irjmets.com/uploadedfiles/paper/issue_5_may_2023/37892/final/fin_irjmets1683447137.pdf
 https://scikit-learn.org/stable/modules/neighbors.html#regression
 https://scikit-learn.org/stable/modules/tree.html
+https://semiocast.com/top-languages-on-twitter-stats/#:~:text=In%20fact%2C%20it%20accounts%20for,%2C%20Spanish%2C%20Undefined%20and%20Portuguese.
+https://time.com/6295711/twitters-hate-content-advertisers/
+
+
