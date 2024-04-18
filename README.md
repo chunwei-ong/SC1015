@@ -31,9 +31,9 @@ The dataset used for this project is a curated collection of data from various s
 
 
 ## Contributions:
-Ong Chun Wei - EDA,random forest,nearest neighbour.
+Ong Chun Wei - EDA,logistic,nearest neighbour.
 
-Rashi Ojha - Data cleaning,decision tree,Naive Bayes
+Rashi Ojha - Data cleaning,forestdecision,Naive Bayes
 
 ## References:
 https://www.datacamp.com/tutorial/random-forests-classifier-python 
